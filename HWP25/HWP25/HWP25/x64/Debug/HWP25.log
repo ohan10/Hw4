@@ -1,0 +1,9 @@
+﻿  Main.c
+C:\C_code\HW4\HWP25\HWP25\Main.c(4,18): error C2143: 語法錯誤: 遺漏 ')' (在 '&' 之前)
+C:\C_code\HW4\HWP25\HWP25\Main.c(4,6): error C2082: 型式參數 'function' 重複定義
+C:\C_code\HW4\HWP25\HWP25\Main.c(4,18): error C2143: 語法錯誤: 遺漏 ';' (在 '&' 之前)
+C:\C_code\HW4\HWP25\HWP25\Main.c(4,29): error C2059: 語法錯誤: ')'
+C:\C_code\HW4\HWP25\HWP25\Main.c(11,18): error C2143: 語法錯誤: 遺漏 ')' (在 '&' 之前)
+C:\C_code\HW4\HWP25\HWP25\Main.c(11,18): error C2143: 語法錯誤: 遺漏 '{' (在 '&' 之前)
+C:\C_code\HW4\HWP25\HWP25\Main.c(11,18): error C2059: 語法錯誤: '&'
+C:\C_code\HW4\HWP25\HWP25\Main.c(11,23): error C2059: 語法錯誤: ')'

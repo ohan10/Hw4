@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\C_code\HW4\HW6.11\HW6.11\Main.c(38,13): error C2057: 必須是常數運算式
+C:\C_code\HW4\HW6.11\HW6.11\Main.c(38,13): error C2466: 無法配置常數大小為 0 的陣列，常數必須為大於 0 的整數
+C:\C_code\HW4\HW6.11\HW6.11\Main.c(38,9): error C2133: 'arr': 未知的大小
